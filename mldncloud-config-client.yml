@@ -7,7 +7,7 @@ spring:
 spring:
   profiles: dev
   application:
-    name: mldncloud-config-client4              #定义微服务名称
+    name: mldncloud-config-client6              #定义微服务名称
 server:
   port: 8101
 eureka:
